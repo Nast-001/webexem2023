@@ -1,0 +1,50 @@
+[
+  {
+    "image": "s1.png",
+    "name": "Phone Fly H2",
+    "price": 50000,
+    "article": "1",
+    "category": "Phone",
+    "available": true
+  },
+  {
+    "image": "s2.png",
+    "name": "HyperX Red Edition",
+    "price": 2000000,
+    "article": "2",
+    "category": "Computer",
+    "available": true
+  },
+  {
+    "image": "s3.jpg",
+    "name": "Prestigio S1",
+    "price": 100000,
+    "article": "3",
+    "category": "Tablet",
+    "available": false
+  },
+  {
+    "image": "s4.jpg",
+    "name": "Lenovo kaputer 2",
+    "price": 800000,
+    "article": "4",
+    "category": "Laptop",
+    "available": true
+  },
+  {
+    "image": "s5.jpg",
+    "name": "Samsung UWU FH1J2",
+    "price": 650000,
+    "article": "5",
+    "category": "TV",
+    "available": true
+  },
+  {
+    "image": "s6.jpg",
+    "name": "Premium Extension",
+    "price": 1000000,
+    "article": "6",
+    "category": "Extension",
+    "available": true
+  }
+]
